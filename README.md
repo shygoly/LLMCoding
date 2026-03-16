@@ -39,6 +39,7 @@ inbox -> methods/patterns -> decisions -> reviews
 ## 推荐起步文档
 
 - `architecture/ai-application-os.md`
+- `architecture/skill-graph-vs-tool-catalog.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
