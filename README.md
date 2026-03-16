@@ -52,6 +52,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `patterns/sqlite-ddl-for-runtime-state.md`
 - `patterns/visual-spec-plus-ui-schema.md`
 - `patterns/visual-spec-spec.md`
+- `patterns/reconcile-stage-spec.md`
 - `decisions/accepted/001-use-knowledge-repo.md`
 - `decisions/accepted/005-use-dual-track-generation-for-stitch-to-code.md`
 - `principles/schema-first-generation.md`
