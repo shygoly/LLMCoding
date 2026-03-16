@@ -54,6 +54,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `patterns/visual-spec-spec.md`
 - `patterns/reconcile-stage-spec.md`
 - `patterns/reconcile-rules-for-common-components.md`
+- `patterns/reconcile-warning-types.md`
 - `decisions/accepted/001-use-knowledge-repo.md`
 - `decisions/accepted/005-use-dual-track-generation-for-stitch-to-code.md`
 - `principles/schema-first-generation.md`
