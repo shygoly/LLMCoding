@@ -12,6 +12,7 @@
 - `principles/`：跨主题通用工程原则
 - `reviews/`：周期性回顾、修订、冲突检查
 - `templates/`：标准文档模板
+- `architecture/`：平台级与系统级架构蓝图
 
 ## 工作流
 
@@ -37,6 +38,7 @@ inbox -> methods/patterns -> decisions -> reviews
 
 ## 推荐起步文档
 
+- `architecture/ai-application-os.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
