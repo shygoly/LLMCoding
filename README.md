@@ -71,5 +71,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `principles/agent-query-before-code.md`
 - `principles/shared-state-over-session-memory.md`
 - `principles/fidelity-and-structure-dual-track.md`
+- `principles/domain-driven-design.md`
+- `principles/test-driven-development.md`
 - `prompts/pre-code-query-checklist.md`
 - `reviews/weekly/2026-03-16-review-example.md`
