@@ -55,6 +55,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `methods/spec-driven-cursor-supervision.md`
 - `methods/mvp-supervisor-implementation-plan.md`
 - `methods/demo-project-roadmap-for-healthcare-ai-assistant.md`
+- `methods/sales-demo-script-for-healthcare-ai-assistant.md`
 - `patterns/html-to-ui-schema.md`
 - `patterns/ui-schema-spec.md`
 - `patterns/obsidian-as-decision-graph.md`
