@@ -42,6 +42,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `architecture/skill-graph-vs-tool-catalog.md`
 - `architecture/memory-vs-rag.md`
 - `architecture/policy-engine-for-ai-saas.md`
+- `architecture/workflow-engine-for-ai-agents.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
