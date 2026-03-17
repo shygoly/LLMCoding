@@ -49,10 +49,12 @@ inbox -> methods/patterns -> decisions -> reviews
 - `architecture/analytics-stack-for-ai-saas.md`
 - `architecture/reference-tech-stack-for-enterprise-ai-demo.md`
 - `architecture/reference-enterprise-ai-demo-project.md`
+- `architecture/transform-homecare-admin-into-ai-saas.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
 - `methods/mvp-supervisor-implementation-plan.md`
+- `methods/demo-project-roadmap-for-healthcare-ai-assistant.md`
 - `patterns/html-to-ui-schema.md`
 - `patterns/ui-schema-spec.md`
 - `patterns/obsidian-as-decision-graph.md`
