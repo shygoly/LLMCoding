@@ -48,6 +48,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `architecture/audit-log-for-ai-agents.md`
 - `architecture/analytics-stack-for-ai-saas.md`
 - `architecture/reference-tech-stack-for-enterprise-ai-demo.md`
+- `architecture/reference-enterprise-ai-demo-project.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
