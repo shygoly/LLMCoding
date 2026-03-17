@@ -45,6 +45,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `architecture/workflow-engine-for-ai-agents.md`
 - `architecture/multi-tenant-ai-platform.md`
 - `architecture/billing-and-usage-for-ai-saas.md`
+- `architecture/audit-log-for-ai-agents.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
