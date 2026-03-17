@@ -46,6 +46,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `architecture/multi-tenant-ai-platform.md`
 - `architecture/billing-and-usage-for-ai-saas.md`
 - `architecture/audit-log-for-ai-agents.md`
+- `architecture/analytics-stack-for-ai-saas.md`
 - `methods/design-to-schema-to-code.md`
 - `methods/project-knowledge-graph.md`
 - `methods/spec-driven-cursor-supervision.md`
@@ -67,6 +68,7 @@ inbox -> methods/patterns -> decisions -> reviews
 - `patterns/reconcile-summary-spec.md`
 - `decisions/accepted/001-use-knowledge-repo.md`
 - `decisions/accepted/005-use-dual-track-generation-for-stitch-to-code.md`
+- `decisions/accepted/007-use-postgres-for-oltp-and-duckdb-parquet-for-analytics.md`
 - `principles/schema-first-generation.md`
 - `principles/agent-query-before-code.md`
 - `principles/shared-state-over-session-memory.md`
